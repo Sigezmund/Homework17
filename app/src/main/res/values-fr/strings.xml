@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework17</string>
+    <string name="timer_start">Le start</string>
+    <string name="timer_reset">Сброс</string>
+    <string name="timer_pause">Пауза</string>
+    <string name="timer_end">Конец</string>
+    <string name="timer_already_active">Таймер уже запущен</string>
+</resources>
